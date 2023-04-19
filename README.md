@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Bem vindos !](https://github.com/LucasGuim/LucasGuim/blob/main/Header.png)
 
-Just a guy learning JavaScript and TypeScript...
+
